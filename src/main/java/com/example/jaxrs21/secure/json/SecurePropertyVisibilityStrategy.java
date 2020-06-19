@@ -2,7 +2,6 @@ package com.example.jaxrs21.secure.json;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
-import java.util.function.Supplier;
 import java.util.stream.Stream;
 
 import javax.annotation.security.RolesAllowed;
